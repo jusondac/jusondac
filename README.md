@@ -6,3 +6,10 @@
 I'm **Rejka Permana** A.K.A **Jusondac**. I'm Software Engineer Ruby for the last 3 years. Currently, I'm in College as a student. 
 I build my own tools for Analyzing. For some reason, I'm not published, its private purpose, but for a bit tools I share it here on my github.
 I use Ruby as my Lang Signature or Daily Driver. Currently I'm learning **Metaprogramming** by **Paolo Perrota** for references
+
+# My Public Tools
+
+Here's my public tools that you can use for your purpose. I'm not responsible if anything happen because of it. so, use it wisely.
+- [Logic Marathon](https://github.com/jusondac/logic_marathon_1)
+- [Rails Template](https://github.com/jusondac/simple-template-rails)
+- [Chatroom By Lan](https://github.com/jusondac/Multichatroom)
