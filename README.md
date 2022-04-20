@@ -14,7 +14,7 @@ Here's my public tools that you can use for your purpose. I'm not responsible if
 - [Rails Template](https://github.com/jusondac/simple-template-rails)
 - [Chatroom By Lan](https://github.com/jusondac/Multichatroom)
 
-## Web
+## Web App
 
 Here's some web I made on my local computer. The rest of code are coming soon deploy. especially for Rails Framework
 - [Responsive Sales App Dashboard](https://github.com/jusondac/sales_dashboard)
