@@ -9,14 +9,3 @@ I use Ruby as my Lang Signature or Daily Driver. Currently I'm learning **Metapr
 
 See my wikipedia github: [here](https://github.com/jusondac/jusondac/wiki/Jusondac-Wikipedia)
 
-## My Public Tools
-
-Here's my public tools that you can use for your purpose. I'm not responsible if anything happen because of it. so, use it wisely.
-- [Logic Marathon](https://github.com/jusondac/logic_marathon_1)
-- [Rails Template](https://github.com/jusondac/simple-template-rails)
-- [Chatroom By Lan](https://github.com/jusondac/Multichatroom)
-
-## Web App
-
-Here's some web I made on my local computer. The rest of code are coming soon deploy. especially for Rails Framework
-- [Responsive Sales App Dashboard](https://github.com/jusondac/sales_dashboard)
