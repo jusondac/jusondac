@@ -7,7 +7,7 @@ I'm **Rejka Permana** A.K.A **Jusondac**. I'm Software Engineer Ruby for the las
 I build my own tools for Analyzing. For some reason, I'm not published, its private purpose, but for a bit tools I share it here on my github.
 I use Ruby as my Lang Signature or Daily Driver. Currently I'm learning **Metaprogramming** by **Paolo Perrota** for references.
 
-See my wikipedia github: [here](https://github.com/jusondac/jusondac/wiki)
+See my wikipedia github: [here](https://github.com/jusondac/jusondac/wiki/Jusondac-Wikipedia)
 
 ## My Public Tools
 
