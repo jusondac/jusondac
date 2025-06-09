@@ -221,7 +221,6 @@ I'm Rejka Permana, also known as **Jusondac** — a Software Engineer with a lov
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Frameworks & Tools
@@ -236,7 +235,6 @@ I'm Rejka Permana, also known as **Jusondac** — a Software Engineer with a lov
 ## 📫 Connect With Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_promdeus)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/promedeuz_/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jusondac)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jusondac/jusondac/wiki)
 
@@ -246,7 +244,9 @@ I'm Rejka Permana, also known as **Jusondac** — a Software Engineer with a lov
 
 - 🔭 Most of my projects are personal or private experiments
 - 🌱 Currently diving deep into Ruby metaprogramming
-- 🏆 Active CTF participant - writeups available after events
+- 🏆 Active CTF participant — writeups available after events
+- 🔐 Exploring cryptography challenges and solutions
+- 🕵️‍♂️ Ongoing interest in digital forensics and investigation
 - 🎯 Building tools and scripts that I find genuinely useful
 - 📖 Reading "Metaprogramming Ruby" by Paolo Perrotta
 
