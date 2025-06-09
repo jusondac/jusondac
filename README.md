@@ -1,4 +1,5 @@
-# M. Rejka Permanajusondac (@jusondac)
+# M. Rejka Permana (@jusondac)
+![163549072-3b507467-0549-43b4-91ac-5c4352b2c30e](https://github.com/user-attachments/assets/5ae6377b-f8a4-407b-89e2-902e3cd6fde2)
 
 🎯 **On My Way** | Software Engineer passionate about Ruby & Bash scripting
 
