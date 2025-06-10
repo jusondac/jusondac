@@ -61,7 +61,8 @@ I'm Rejka Permana, also known as **Jusondac** — a Software Engineer with a lov
 
 | Repository | Language | Description |
 |------------|----------|-------------|
-| [my_kitchen](https://github.com/jusondac/my_kitchen) | HTML | Kitchen management system |
+|[kitchen v2](https://github.com/jusondac/kitchen_v2)| Rails | Kitchen Setup Advance Caclculation |
+| [my_kitchen](https://github.com/jusondac/my_kitchen) | Rails | Kitchen management system |
 | [food_company_design](https://github.com/jusondac/food_company_design) | HTML | Sundanese restaurant (Shelter) |
 | [ordina-la-salsa](https://github.com/jusondac/ordina-la-salsa) | Less | Restaurant ordering system |
 
