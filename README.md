@@ -23,26 +23,7 @@ I'm Rejka Permana, also known as **Jusondac** — a Software Engineer with a lov
 - 🦈 Pull Shark x2
 - 🧊 Arctic Code Vault Contributor
 
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jusondac&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jusondac&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jusondac&theme=radical)
-
----
-
-## 🚀 Pinned Repositories
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jusondac&repo=lazy_script&theme=radical)](https://github.com/jusondac/lazy_script)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jusondac&repo=api_base_storesale&theme=radical)](https://github.com/jusondac/api_base_storesale)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jusondac&repo=crud_bash&theme=radical)](https://github.com/jusondac/crud_bash)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jusondac&repo=Multichatroom&theme=radical)](https://github.com/jusondac/Multichatroom)
-
----
+--- 
 
 ## 🛠️ Tech Stack
 
